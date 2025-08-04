@@ -13,7 +13,7 @@ A cutting-edge legal AI assistant that enables **natural language querying** of 
 
 ## 🎬 Live Demo
 
-![AskMyLawyer-AI Demo](https://github.com/user-attachments/assets/57641d68-46db-41ff-9d41-7e3c518972f7))
+![AskMyLawyer-AI Demo] https://github.com/user-attachments/assets/57641d68-46db-41ff-9d41-7e3c518972f7
 
 *Interactive demonstration of legal document analysis and Q&A*
 
