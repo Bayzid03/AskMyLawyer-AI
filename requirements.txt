@@ -1,0 +1,23 @@
+# Core LangChain packages
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+
+# Vector store and embeddings
+faiss-cpu
+sentence-transformers
+
+# PDF processing
+pdfplumber
+
+# Web framework
+streamlit
+
+# Environment variables
+python-dotenv
+
+# Additional dependencies that may be needed
+torch
+transformers
+numpy
